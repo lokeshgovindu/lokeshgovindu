@@ -1,6 +1,5 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on Visual Studio IDE CommandPalette Extension
 - 👯 I’m looking to collaborate on Visual Studio Extensibility
 - 🤔 I’m looking for help with Visual Studio Extensibility
 - 📫 How to reach me: lokeshgovindu@gmail.com
