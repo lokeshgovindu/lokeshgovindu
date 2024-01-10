@@ -1,8 +1,9 @@
 ### Hi 👋
 
-- 👯 I’m looking to collaborate on Visual Studio Extensibility
-- 🤔 I’m looking for help with Visual Studio Extensibility
+- 💬 I am C++ Developer.
 - 📫 How to reach me: lokeshgovindu@gmail.com
+
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshgovindu) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgovindu)
 
 Thank you :-)
 
