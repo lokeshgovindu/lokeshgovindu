@@ -3,8 +3,22 @@
 - 💬 I am C++ Developer.
 - 📫 How to reach me: lokeshgovindu@gmail.com
 
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshgovindu) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgovindu)
+#### &#x1f4c8; My GitHub Stats
 
+<a href="https://lokeshgovindu.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=dark" alt="lokeshgovindu's GitHub Stats" />
+</a>
+
+<a href="https://lokeshgovindu.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgovindu&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://lokeshgovindu.github.io">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgovindu&theme=dark" />
+</a>
+<br/>
+
+---
 Thank you :-)
 
 <!--
