@@ -6,15 +6,15 @@
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://lokeshgovindu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=dark" alt="lokeshgovindu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=flag-india" alt="lokeshgovindu's GitHub Stats" />
 </a>
 
 <a href="https://lokeshgovindu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgovindu&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgovindu&&hide=cmake&langs_count=4&line_height=35&theme=flag-india" />
 </a>
 
 <a href="https://lokeshgovindu.github.io">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgovindu&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgovindu&theme=flag-india" />
 </a>
 <br/>
 
