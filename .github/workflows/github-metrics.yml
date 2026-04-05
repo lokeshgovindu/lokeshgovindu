@@ -1,0 +1,47 @@
+name: Generate GitHub Metrics
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Metrics - Light
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: lokeshgovindu
+          template: classic
+          base: header, activity, community, repositories, relevant
+          config_timezone: Asia/Kolkata
+          plugins_languages: yes
+          plugins_languages_colors: github
+          plugins_languages_limit: 8
+
+      - name: Generate Metrics - Dark
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: lokeshgovindu
+          template: classic
+          base: header, activity, community, repositories, relevant
+          config_timezone: Asia/Kolkata
+          plugins_languages: yes
+          plugins_languages_colors: github
+          plugins_languages_limit: 8
+          config_output: dark
+
+      - name: Commit metrics
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add metrics*.svg
+          git commit -m "Update GitHub metrics" || true
+          git push
