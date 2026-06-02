@@ -1,6 +1,33 @@
 name: Metrics
 
 on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: ["main", "master"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate metrics
+        uses: stalomeow/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          user: lokeshgovindu
+          template: classic
+          base: header, activity, community
+          config_timezone: Asia/Kolkata
+name: Metrics
+
+on:
   # Schedule daily updates
   schedule: [{cron: "0 0/24 * * *"}]
   # (optional) Run workflow manually
