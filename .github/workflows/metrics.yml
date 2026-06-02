@@ -17,7 +17,7 @@ jobs:
       - name: left profile
         uses: stalomeow/metrics@projects-v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || 'NOT_NEEDED' }}
           filename: github-metrics-left.svg
 
           # Options
@@ -35,7 +35,7 @@ jobs:
       - name: right profile
         uses: stalomeow/metrics@projects-v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || 'NOT_NEEDED' }}
           filename: github-metrics-right.svg
 
           # Options
