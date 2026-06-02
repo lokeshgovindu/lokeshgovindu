@@ -34,5 +34,4 @@ jobs:
           user: lokeshgovindu
           template: classic
           base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: lokeshgovindu/lokeshgovindu
+          plugin_isocalendar: yes
