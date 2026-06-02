@@ -5,8 +5,8 @@
 
 #### &#x1f4c8; My GitHub Stats
 
-![GitHub Metrics](./metrics.svg)
-![GitHub Metrics Dark](./metrics.dark.svg)
+![GitHub Metrics Left](./github-metrics-left.svg)
+![GitHub Metrics Right](./github-metrics-right.svg)
 
 <a href="https://lokeshgovindu.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=flag-india" alt="lokeshgovindu's GitHub Stats" />
