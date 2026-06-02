@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Generate left profile
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-left.svg
@@ -32,7 +32,7 @@ jobs:
           config_order: base.header, base.activity+community, wakatime
 
       - name: Generate right profile
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-right.svg
@@ -45,6 +45,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: X
           plugin_achievements_limit: 8
-          plugin_achievements_display: detailed
+          # plugin_achievements_display: detailed
           config_padding: 0, 8 + 11%
           config_order: achievements #, stars
