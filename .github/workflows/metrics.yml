@@ -34,5 +34,5 @@ jobs:
           user: lokeshgovindu
           template: classic
           base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_repositories: yes
+          plugin_repositories_featured: lokeshgovindu/lokeshgovindu
