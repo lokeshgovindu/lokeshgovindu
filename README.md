@@ -1,23 +1,43 @@
 ### Hi 👋, I'm Lokesh Govindu
 
-**C++ Developer**
+A passionate **C++ Developer** interested in low-level programming, system design, and high-performance computing.
 
 ---
 
 ## 💼 About Me
 
+- 🔭 I'm currently working on **system-level projects and performance optimization**
+- 🌱 I'm currently learning **Rust, Advanced System Design, and Distributed Systems**
+- 👯 I'm looking to collaborate on **open-source projects and C++ development**
+- 💬 Ask me about **C++, system programming, algorithms, and data structures**
 - 📫 How to reach me: **lokeshgovindu@gmail.com**
+- ⚡ Fun fact: **I enjoy optimizing code for performance and learning new programming paradigms**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white)
+
+### 🔧 Technologies
+![Win32](https://img.shields.io/badge/Win32-0078D4?style=flat-square&logo=windows&logoColor=white)
+![MFC](https://img.shields.io/badge/MFC-0078D4?style=flat-square&logo=windows&logoColor=white)
+![VC++](https://img.shields.io/badge/VC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### 🖥️ IDEs & Editors
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 📦 Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -74,6 +94,7 @@
 | [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ⭐ 3 | C# |
 | [**IntelliCommand**](https://github.com/lokeshgovindu/IntelliCommand) | Visual Studio extension for keyboard shortcuts | ⭐ 3 | C# |
 | [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ⭐ Recent | C# |
+| [**cppcheck-vs-addin**](https://github.com/lokeshgovindu/cppcheck-vs-addin) | Visual Studio integration for cppcheck static analyzer | Latest | C++ |
 
 </div>
 
