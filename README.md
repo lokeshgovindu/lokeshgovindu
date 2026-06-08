@@ -18,10 +18,12 @@ A passionate **C++ Developer** interested in low-level programming, system desig
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 ---
 
@@ -49,18 +51,26 @@ A passionate **C++ Developer** interested in low-level programming, system desig
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgovindu&theme=flag-india" />
 </a>
 
-### 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lokeshgovindu&theme=onestar&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
 
-## ⏱️ WakaTime Stats
+## 📌 Featured Projects
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### ⭐ My Best Work
+
+<div align="center">
+
+| Project | Description | Stars | Language |
+|---------|-------------|-------|----------|
+| [**AltTab**](https://github.com/lokeshgovindu/AltTab) | Alternative Windows task switcher (Alt+Tab) in C++ with Win32 | ⭐ 29 | C++ |
+| [**AltTabAlternative**](https://github.com/lokeshgovindu/AltTabAlternative) | Alternative Windows native task switcher | ⭐ 24 | AutoHotkey |
+| [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ⭐ 3 | C# |
+| [**IntelliCommand**](https://github.com/lokeshgovindu/IntelliCommand) | Visual Studio extension for keyboard shortcuts | ⭐ 3 | C# |
+| [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ⭐ Recent | C# |
+| [**cppcheck-vs-addin**](https://github.com/lokeshgovindu/cppcheck-vs-addin) | Visual Studio integration for cppcheck static analyzer | Latest | C++ |
+
+</div>
 
 ---
 
@@ -76,23 +86,16 @@ A passionate **C++ Developer** interested in low-level programming, system desig
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Pin your best repositories here -->
-Check out my [pinned repositories](https://github.com/lokeshgovindu?tab=repositories) for my latest and most impactful work!
-
----
-
 <div align="center">
 
 ### 📊 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=lokeshgovindu&color=brightgreen)
 
+**Made with ❤️ by Lokesh Govindu**
+
 </div>
 
 ---
-
-Thank you for visiting my profile! 😊
 
 <!--
 **lokeshgovindu/lokeshgovindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
