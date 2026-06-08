@@ -48,3 +48,15 @@ jobs:
           plugin_achievements_display: detailed
           config_padding: 0, 8 + 11%
           config_order: achievements #, stars
+      - name: Generate WakaTime Metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+      
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 180
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          
