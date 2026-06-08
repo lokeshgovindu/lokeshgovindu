@@ -12,33 +12,26 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white)
-
-### 🔧 Technologies
 ![Win32](https://img.shields.io/badge/Win32-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![VC++](https://img.shields.io/badge/VC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### 🖥️ IDEs & Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### 📦 Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats & Metrics
 
-| Profile Info | Top Languages |
+| Profile Info | Achievements |
 | --- | --- |
 | ![GitHub Metrics Left](./github-metrics-left.svg) | ![GitHub Metrics Right](./github-metrics-right.svg) |
 
