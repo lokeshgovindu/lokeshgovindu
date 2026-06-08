@@ -61,6 +61,9 @@
 
 <div align="center">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lokeshgovindu&theme=flag-india&layout=compact)](https://wakatime.com/@lokeshgovindu)
 
 **Check out my full WakaTime profile:** [wakatime.com/@lokeshgovindu](https://wakatime.com/@lokeshgovindu)
