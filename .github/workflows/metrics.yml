@@ -8,6 +8,17 @@ on:
     branches: ["main", "master"]
 
 jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 10
+          SHOW_TOTAL: true
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -59,4 +70,3 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 180
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          
