@@ -55,6 +55,18 @@ A passionate **C++ Developer** interested in low-level programming, system desig
 
 ---
 
+## ⏱️ WakaTime Stats
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lokeshgovindu&theme=flag-india&layout=compact)](https://wakatime.com/@lokeshgovindu)
+
+**Check out my full WakaTime profile:** [wakatime.com/@lokeshgovindu](https://wakatime.com/@lokeshgovindu)
+
+</div>
+
+---
+
 ## 📌 Featured Projects
 
 ### ⭐ My Best Work
@@ -81,6 +93,7 @@ A passionate **C++ Developer** interested in low-level programming, system desig
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshgovindu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgovindu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://lokeshgovindu.github.io)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@lokeshgovindu)
 
 </div>
 
