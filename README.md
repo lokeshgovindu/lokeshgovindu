@@ -61,7 +61,11 @@
 
 <div align="center">
 
-<img src="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg" alt="WakaTime Dashboard" />
+### 📊 Coding Activity Dashboard
+
+| Languages | Categories | Editors |
+|-----------|-----------|---------|
+| <a href="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg" target="_blank"><img src="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg" alt="WakaTime Dashboard" width="300" /></a> | <a href="https://wakatime.com/share/@lokeshgovindu/9418826a-6bfa-490f-9ff8-eb5f1ddf97a9.svg" target="_blank"><img src="https://wakatime.com/share/@lokeshgovindu/9418826a-6bfa-490f-9ff8-eb5f1ddf97a9.svg" alt="WakaTime Categories" width="300" /></a> | <a href="https://wakatime.com/share/@lokeshgovindu/327e4ace-4251-46ce-988c-09d51303b8fa.svg" target="_blank"><img src="https://wakatime.com/share/@lokeshgovindu/327e4ace-4251-46ce-988c-09d51303b8fa.svg" alt="WakaTime Editors" width="300" /></a> |
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
