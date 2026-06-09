@@ -40,7 +40,7 @@
 ### 📈 GitHub Overview
 
 <a href="https://lokeshgovindu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=flag-india&card_width=400" alt="lokeshgovindu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=flag-india&card_width=400" alt="lokeshgovindu's GitHub stats" />
 </a>
 
 <a href="https://lokeshgovindu.github.io">
@@ -60,6 +60,10 @@
 ## ⏱️ WakaTime Stats
 
 <div align="center">
+
+<figure>
+  <embed src="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg">
+</figure>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
