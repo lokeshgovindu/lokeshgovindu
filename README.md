@@ -61,9 +61,7 @@
 
 <div align="center">
 
-<figure>
-  <embed src="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg">
-</figure>
+<img src="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg" alt="WakaTime Dashboard" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
