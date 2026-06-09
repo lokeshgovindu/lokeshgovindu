@@ -7,6 +7,25 @@
 ## 💼 About Me
 
 - 📫 How to reach me: **lokeshgovindu@gmail.com**
+- 💡 Specialized in Windows Desktop Applications & Visual Studio Extensions
+- 🖥️ Expert in Win32 API & MFC Framework
+- 🔧 Proficient in creating IDE plugins and tools
+
+---
+
+## 🎯 What I Do
+
+<div align="center">
+
+```
+🔭 I'm currently working on: Windows utilities and productivity tools
+🌱 I'm learning: Modern C++ features and cloud technologies
+💬 Ask me about: Win32 API, MFC, Visual Studio Extensions, Desktop Application Development
+🤝 Open to collaborating on: Windows utilities, Visual Studio extensions, C++ projects
+⚡ Fun fact: I automate repetitive tasks to save time for more coding!
+```
+
+</div>
 
 ---
 
@@ -91,6 +110,26 @@
 | [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ⭐ 3 | C# |
 | [**IntelliCommand**](https://github.com/lokeshgovindu/IntelliCommand) | Visual Studio extension for keyboard shortcuts | ⭐ 3 | C# |
 | [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ⭐ Recent | C# |
+
+</div>
+
+---
+
+## 💡 Random Tech Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![GitHub Snake Animation](https://github.com/lokeshgovindu/lokeshgovindu/raw/output/github-contribution-grid-snake.svg)
 
 </div>
 
