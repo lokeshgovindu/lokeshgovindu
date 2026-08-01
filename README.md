@@ -95,6 +95,24 @@ swap the github-readme-stats.vercel.app host for your own.
 | <a href="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg" target="_blank"><img src="https://wakatime.com/share/@lokeshgovindu/34074b8f-f751-4808-b1cc-10ffeeae5107.svg" alt="WakaTime Dashboard" width="300" /></a> | <a href="https://wakatime.com/share/@lokeshgovindu/9418826a-6bfa-490f-9ff8-eb5f1ddf97a9.svg" target="_blank"><img src="https://wakatime.com/share/@lokeshgovindu/9418826a-6bfa-490f-9ff8-eb5f1ddf97a9.svg" alt="WakaTime Categories" width="300" /></a> | <a href="https://wakatime.com/share/@lokeshgovindu/327e4ace-4251-46ce-988c-09d51303b8fa.svg" target="_blank"><img src="https://wakatime.com/share/@lokeshgovindu/327e4ace-4251-46ce-988c-09d51303b8fa.svg" alt="WakaTime Editors" width="300" /></a> |
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 01 July 2026 - To: 31 July 2026
+
+Total Time: 98 hrs 18 mins
+
+C++                  45 hrs 54 mins        ████████▒░░░░░░░░░░░░░░░░   33.11 %
+Other                40 hrs 20 mins        ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+Text                 11 hrs 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Markdown             10 hrs 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Python               7 hrs 22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+HTML                 4 hrs 39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+CMake                3 hrs 59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Batchfile            3 hrs 20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+JSON                 3 hrs 20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+INI                  2 hrs 17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 📈 Projects & Languages (last 180 days)
