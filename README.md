@@ -148,24 +148,16 @@ INI                  2 hrs 17 mins         ▒░░░░░░░░░░░�
 
 ---
 
-<!--
-Contribution Graph, hidden until the snake exists.
-
-.github/workflows/snake.yml renders this into the `output` branch, but
-workflow_dispatch and schedule only fire from the default branch, so nothing
-creates `output` until this merges. The whole section stays commented so the
-profile doesn't show an empty heading; restore it after the first run succeeds.
-
 ## 🐍 Contribution Graph
 
 <div align="center">
 
+<!-- Regenerated daily by .github/workflows/snake.yml into the `output` branch. -->
 ![GitHub Snake Animation](https://github.com/lokeshgovindu/lokeshgovindu/raw/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
--->
 
 ## 🔗 Connect with Me
 
