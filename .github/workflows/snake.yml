@@ -11,6 +11,12 @@ on:
       - '*.svg'
       - 'README.md'
 
+# Force-pushes to the `output` branch; queue overlapping runs rather than
+# letting two of them publish at once.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest

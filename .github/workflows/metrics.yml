@@ -12,9 +12,18 @@ on:
       - '*.svg'
       - 'README.md'
 
+# Both jobs below write to the repository. Queue overlapping runs (a push and
+# the nightly cron, say) instead of letting them race on the same branch.
+# cancel-in-progress stays false so a run is never killed part-way through
+# committing, which would leave only some cards updated.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       # waka-readme commits the rendered stats back into README.md.
       contents: write
@@ -33,6 +42,13 @@ jobs:
           SHOW_TOTAL: true
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    # Run after update-readme rather than alongside it. waka-readme checks out,
+    # commits and pushes; if this job's API commits landed in between, that push
+    # was rejected non-fast-forward and the WakaTime section silently went stale.
+    # always() keeps a waka-readme failure from blocking the metrics cards.
+    needs: update-readme
+    if: ${{ always() }}
     permissions:
       contents: write
     steps:
@@ -70,7 +86,7 @@ jobs:
           plugin_achievements_limit: 8
           plugin_achievements_display: detailed
           config_padding: 0, 8 + 11%
-          config_order: achievements #, stars
+          config_order: achievements
       # Output is embedded in the WakaTime Stats section of README.md.
       - name: Generate WakaTime Metrics
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34

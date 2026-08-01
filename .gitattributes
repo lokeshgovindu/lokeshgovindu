@@ -1,0 +1,15 @@
+# Normalize line endings so CRLF never enters the repository. The SVG cards and
+# the WakaTime README block are rewritten by Linux CI runners with LF; without
+# this, editing them on Windows produces whole-file diffs that are pure
+# line-ending churn.
+* text=auto
+
+*.md   text eol=lf
+*.svg  text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+
+# Generated cards -- collapse them in diffs and exclude from language stats.
+github-metrics-left.svg  linguist-generated=true
+github-metrics-right.svg linguist-generated=true
+metrics.wakatime.svg     linguist-generated=true
