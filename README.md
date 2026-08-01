@@ -148,12 +148,18 @@ INI                  2 hrs 17 mins         ▒░░░░░░░░░░░�
 
 ---
 
-## 🐍 Contribution Graph
+## 📅 Contribution Graph
 
 <div align="center">
 
-<!-- Regenerated daily by .github/workflows/snake.yml into the `output` branch. -->
-![GitHub Snake Animation](https://github.com/lokeshgovindu/lokeshgovindu/raw/output/github-contribution-grid-snake.svg)
+<!--
+Labelled calendar (Sun-Sat down the side, months across the top), rendered live
+by ghchart.rshah.org. Note: it uses GitHub's older green palette and draws empty
+cells in #eeeeee, so it reads as light-on-dark for dark-theme viewers. Passing a
+custom hex (ghchart.rshah.org/<hex>/<user>) recolours the active cells only, not
+the empty ones, so there is no dark-mode variant worth serving.
+-->
+![Contribution calendar for the last year](https://ghchart.rshah.org/lokeshgovindu)
 
 </div>
 
