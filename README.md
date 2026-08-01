@@ -97,6 +97,11 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### 📈 Projects & Languages (last 180 days)
+
+<!-- Regenerated daily by the 'Generate WakaTime Metrics' step in .github/workflows/metrics.yml -->
+[![WakaTime projects and languages](./metrics.wakatime.svg)](https://wakatime.com/@lokeshgovindu)
+
 <!-- DISABLED: same 503 DEPLOYMENT_PAUSED outage as the cards above.
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lokeshgovindu&theme=flag-india&layout=compact)](https://wakatime.com/@lokeshgovindu)
 -->
