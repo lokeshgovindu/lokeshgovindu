@@ -2,17 +2,29 @@ name: Metrics
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Avoid on-the-hour slots; GitHub delays scheduled runs at popular times.
+    - cron: '37 2 * * *'
   workflow_dispatch:
   push:
-    branches: ["main", "master"]
+    branches: ["main"]
+    paths-ignore:
+      # These are written back by this workflow; re-running on them is wasted CI.
+      - '*.svg'
+      - 'README.md'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      # waka-readme commits the rendered stats back into README.md.
+      contents: write
 
     steps:
-      - uses: athul/waka-readme@master
+      # waka-readme edits README.md in place, so the repo must be checked out
+      # first -- without this the WAKA section is never filled in.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6 # master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -25,7 +37,7 @@ jobs:
       contents: write
     steps:
       - name: Generate left profile
-        uses: stalomeow/metrics@projects-v2
+        uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e # projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-left.svg
@@ -40,10 +52,10 @@ jobs:
           plugin_wakatime_days: 180
           config_timezone: Asia/Kolkata
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, wakatime
+          config_order: base.header, base.activity, base.community, wakatime
 
       - name: Generate right profile
-        uses: stalomeow/metrics@projects-v2
+        uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e # projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-right.svg
@@ -59,12 +71,13 @@ jobs:
           plugin_achievements_display: detailed
           config_padding: 0, 8 + 11%
           config_order: achievements #, stars
+      # Output is embedded in the WakaTime Stats section of README.md.
       - name: Generate WakaTime Metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: metrics.wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
-      
+
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}

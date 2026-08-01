@@ -58,18 +58,26 @@
 
 ### 📈 GitHub Overview
 
+<!--
+DISABLED: both cards below use the public shared github-readme-stats instance,
+which is currently returning HTTP 503 DEPLOYMENT_PAUSED, so they rendered as
+broken images. To restore them, deploy your own instance following
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own then
+swap the github-readme-stats.vercel.app host for your own.
+
 <a href="https://lokeshgovindu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=flag-india&card_width=400" alt="lokeshgovindu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshgovindu&show_icons=true&line_height=33&count_private=true&theme=flag-india&card_width=400" alt="lokeshgovindu's GitHub stats" />
 </a>
 
 <a href="https://lokeshgovindu.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgovindu&hide=cmake&langs_count=6&line_height=35&theme=flag-india&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgovindu&hide=cmake&langs_count=6&line_height=35&theme=flag-india&card_width=400" alt="lokeshgovindu's most used languages" />
 </a>
+-->
 
 ### 🔥 Contribution Streak
 
 <a href="https://lokeshgovindu.github.io">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgovindu&theme=flag-india" />
+  <img src="https://streak-stats.demolab.com/?user=lokeshgovindu&theme=flag-india" alt="lokeshgovindu's contribution streak" />
 </a>
 
 </div>
@@ -89,7 +97,14 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### 📈 Projects & Languages (last 180 days)
+
+<!-- Regenerated daily by the 'Generate WakaTime Metrics' step in .github/workflows/metrics.yml -->
+[![WakaTime projects and languages](./metrics.wakatime.svg)](https://wakatime.com/@lokeshgovindu)
+
+<!-- DISABLED: same 503 DEPLOYMENT_PAUSED outage as the cards above.
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lokeshgovindu&theme=flag-india&layout=compact)](https://wakatime.com/@lokeshgovindu)
+-->
 
 **Check out my full WakaTime profile:** [wakatime.com/@lokeshgovindu](https://wakatime.com/@lokeshgovindu)
 
@@ -105,25 +120,23 @@
 
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
-| [**AltTab**](https://github.com/lokeshgovindu/AltTab) | Alternative Windows task switcher (Alt+Tab) in C++ with Win32 | ⭐ 29 | C++ |
-| [**AltTabAlternative**](https://github.com/lokeshgovindu/AltTabAlternative) | Alternative Windows native task switcher | ⭐ 24 | AutoHotkey |
-| [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ⭐ 3 | C# |
-| [**IntelliCommand**](https://github.com/lokeshgovindu/IntelliCommand) | Visual Studio extension for keyboard shortcuts | ⭐ 3 | C# |
-| [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ⭐ Recent | C# |
+| [**AltTab**](https://github.com/lokeshgovindu/AltTab) | Alternative Windows task switcher (Alt+Tab) in C++ with Win32 | ![AltTab stars](https://img.shields.io/github/stars/lokeshgovindu/AltTab?style=flat-square&label=%E2%AD%90) | C++ |
+| [**AltTabAlternative**](https://github.com/lokeshgovindu/AltTabAlternative) | Alternative Windows native task switcher | ![AltTabAlternative stars](https://img.shields.io/github/stars/lokeshgovindu/AltTabAlternative?style=flat-square&label=%E2%AD%90) | AutoHotkey |
+| [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ![DependencyGraph stars](https://img.shields.io/github/stars/lokeshgovindu/DependencyGraph?style=flat-square&label=%E2%AD%90) | C# |
+| [**IntelliCommand**](https://github.com/lokeshgovindu/IntelliCommand) | Visual Studio extension for keyboard shortcuts | ![IntelliCommand stars](https://img.shields.io/github/stars/lokeshgovindu/IntelliCommand?style=flat-square&label=%E2%AD%90) | C# |
+| [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ![GoToRecentFile stars](https://img.shields.io/github/stars/lokeshgovindu/GoToRecentFile?style=flat-square&label=%E2%AD%90) | C# |
 
 </div>
 
 ---
 
-## 💡 Random Tech Quote
+<!--
+Contribution Graph, hidden until the snake exists.
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
+.github/workflows/snake.yml renders this into the `output` branch, but
+workflow_dispatch and schedule only fire from the default branch, so nothing
+creates `output` until this merges. The whole section stays commented so the
+profile doesn't show an empty heading; restore it after the first run succeeds.
 
 ## 🐍 Contribution Graph
 
@@ -134,6 +147,7 @@
 </div>
 
 ---
+-->
 
 ## 🔗 Connect with Me
 
@@ -156,18 +170,3 @@
 </div>
 
 ---
-
-<!--
-**lokeshgovindu/lokeshgovindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
