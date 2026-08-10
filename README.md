@@ -97,20 +97,20 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2026 - To: 07 August 2026
+From: 09 July 2026 - To: 08 August 2026
 
-Total Time: 100 hrs 37 mins
+Total Time: 103 hrs 34 mins
 
-Other                              51 hrs 14 mins        ████████▒░░░░░░░░░░░░░░░░   33.74 %
-C++                                47 hrs 6 mins         ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-Markdown                           10 hrs 58 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Text                               9 hrs 27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-HTML                               5 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-PowerShell                         5 hrs 3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Python                             3 hrs 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-CMake                              2 hrs 56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-C#                                 2 hrs 23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-JSON                               2 hrs 21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other                              50 hrs 44 mins        ████████▒░░░░░░░░░░░░░░░░   32.88 %
+C++                                45 hrs 47 mins        ███████▒░░░░░░░░░░░░░░░░░   29.67 %
+Markdown                           11 hrs 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Text                               9 hrs 12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+C#                                 5 hrs 20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+PowerShell                         5 hrs 13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+HTML                               5 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Python                             2 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+CMake                              2 hrs 56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JSON                               2 hrs 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
