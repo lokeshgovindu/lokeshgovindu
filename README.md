@@ -97,20 +97,20 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2026 - To: 11 August 2026
+From: 13 July 2026 - To: 12 August 2026
 
-Total Time: 120 hrs 49 mins
+Total Time: 123 hrs 58 mins
 
-Other                              56 hrs 19 mins        ████████░░░░░░░░░░░░░░░░░   31.79 %
-C++                                50 hrs                ███████░░░░░░░░░░░░░░░░░░   28.23 %
-Markdown                           15 hrs 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Text                               10 hrs 29 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-C#                                 9 hrs 52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-PowerShell                         6 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-HTML                               5 hrs 37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Python                             5 hrs 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-CMake                              2 hrs 43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Bash                               2 hrs 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other                              56 hrs 34 mins        ████████░░░░░░░░░░░░░░░░░   31.34 %
+C++                                49 hrs 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 %
+Markdown                           15 hrs 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+C#                                 12 hrs 3 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Text                               10 hrs 4 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+PowerShell                         7 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Python                             5 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+HTML                               5 hrs 57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+CMake                              2 hrs 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+XAML                               2 hrs 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
