@@ -97,20 +97,20 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2026 - To: 15 August 2026
+From: 17 July 2026 - To: 16 August 2026
 
-Total Time: 140 hrs 11 mins
+Total Time: 148 hrs 51 mins
 
-Other                              58 hrs 34 mins        ███████▒░░░░░░░░░░░░░░░░░   29.47 %
-C++                                50 hrs 57 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.64 %
-Markdown                           17 hrs 57 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-C#                                 16 hrs 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Text                               10 hrs 3 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Python                             10 hrs 1 min          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-PowerShell                         9 hrs 21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-HTML                               6 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-XAML                               3 hrs 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-CMake                              2 hrs 51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other                              59 hrs 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.63 %
+C++                                52 hrs 21 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Markdown                           20 hrs 13 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+C#                                 18 hrs 55 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Python                             11 hrs 40 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Text                               9 hrs 39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+PowerShell                         9 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+HTML                               6 hrs 11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+XAML                               3 hrs 36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+CMake                              2 hrs 51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
