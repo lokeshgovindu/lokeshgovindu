@@ -139,6 +139,7 @@ CMake                              2 hrs 57 mins         ▒░░░░░░�
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
 | [**AltTab**](https://github.com/lokeshgovindu/AltTab) | Alternative Windows task switcher (Alt+Tab) in C++ with Win32 | ![AltTab stars](https://img.shields.io/github/stars/lokeshgovindu/AltTab?style=flat-square&label=%E2%AD%90) | C++ |
+| [**PasteJump**](https://github.com/lokeshgovindu/PasteJump) | Keyboard-driven multiple-clipboard manager for Windows | ![PasteJump stars](https://img.shields.io/github/stars/lokeshgovindu/PasteJump?style=flat-square&label=%E2%AD%90) | .NET 10 |
 | [**AltTabAlternative**](https://github.com/lokeshgovindu/AltTabAlternative) | Alternative Windows native task switcher | ![AltTabAlternative stars](https://img.shields.io/github/stars/lokeshgovindu/AltTabAlternative?style=flat-square&label=%E2%AD%90) | AutoHotkey |
 | [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ![DependencyGraph stars](https://img.shields.io/github/stars/lokeshgovindu/DependencyGraph?style=flat-square&label=%E2%AD%90) | C# |
 | [**IntelliCommand**](https://github.com/lokeshgovindu/IntelliCommand) | Visual Studio extension for keyboard shortcuts | ![IntelliCommand stars](https://img.shields.io/github/stars/lokeshgovindu/IntelliCommand?style=flat-square&label=%E2%AD%90) | C# |
