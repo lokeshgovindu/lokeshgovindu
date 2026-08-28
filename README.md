@@ -36,6 +36,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white)
 ![Win32](https://img.shields.io/badge/Win32-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -140,9 +142,10 @@ CMake                              2 hrs 58 mins         ▒░░░░░░�
 |---------|-------------|-------|----------|
 | [**AltTab**](https://github.com/lokeshgovindu/AltTab) | Alternative Windows task switcher (Alt+Tab) in C++ with Win32 | ![AltTab stars](https://img.shields.io/github/stars/lokeshgovindu/AltTab?style=flat-square&label=%E2%AD%90) | C++ |
 | [**PasteJump**](https://github.com/lokeshgovindu/PasteJump) | Keyboard-driven multiple-clipboard manager for Windows | ![PasteJump stars](https://img.shields.io/github/stars/lokeshgovindu/PasteJump?style=flat-square&label=%E2%AD%90) | .NET 10 |
+| [**PerchBar**](https://github.com/lokeshgovindu/PerchBar) | One taskbar button for a group of Windows apps, including the ones already running | ![PerchBar stars](https://img.shields.io/github/stars/lokeshgovindu/PerchBar?style=flat-square&label=%E2%AD%90) | C++20 |
+| [**KeyPressOSD**](https://github.com/lokeshgovindu/KeyPressOSD) | On-screen display for keys and mouse buttons, for screencasts and presentations | ![KeyPressOSD stars](https://img.shields.io/github/stars/lokeshgovindu/KeyPressOSD?style=flat-square&label=%E2%AD%90) | .NET 10 |
 | [**AltTabAlternative**](https://github.com/lokeshgovindu/AltTabAlternative) | Alternative Windows native task switcher | ![AltTabAlternative stars](https://img.shields.io/github/stars/lokeshgovindu/AltTabAlternative?style=flat-square&label=%E2%AD%90) | AutoHotkey |
 | [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ![DependencyGraph stars](https://img.shields.io/github/stars/lokeshgovindu/DependencyGraph?style=flat-square&label=%E2%AD%90) | C# |
-| [**IntelliCommand**](https://github.com/lokeshgovindu/IntelliCommand) | Visual Studio extension for keyboard shortcuts | ![IntelliCommand stars](https://img.shields.io/github/stars/lokeshgovindu/IntelliCommand?style=flat-square&label=%E2%AD%90) | C# |
 | [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ![GoToRecentFile stars](https://img.shields.io/github/stars/lokeshgovindu/GoToRecentFile?style=flat-square&label=%E2%AD%90) | C# |
 
 </div>
