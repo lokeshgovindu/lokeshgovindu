@@ -138,15 +138,22 @@ CMake                              2 hrs 58 mins         ▒░░░░░░�
 
 <div align="center">
 
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| [**AltTab**](https://github.com/lokeshgovindu/AltTab) | Alternative Windows task switcher (Alt+Tab) in C++ with Win32 | ![AltTab stars](https://img.shields.io/github/stars/lokeshgovindu/AltTab?style=flat-square&label=%E2%AD%90) | C++ |
-| [**PasteJump**](https://github.com/lokeshgovindu/PasteJump) | Keyboard-driven multiple-clipboard manager for Windows | ![PasteJump stars](https://img.shields.io/github/stars/lokeshgovindu/PasteJump?style=flat-square&label=%E2%AD%90) | .NET 10 |
-| [**PerchBar**](https://github.com/lokeshgovindu/PerchBar) | One taskbar button for a group of Windows apps, including the ones already running | ![PerchBar stars](https://img.shields.io/github/stars/lokeshgovindu/PerchBar?style=flat-square&label=%E2%AD%90) | C++20 |
-| [**KeyPressOSD**](https://github.com/lokeshgovindu/KeyPressOSD) | On-screen display for keys and mouse buttons, for screencasts and presentations | ![KeyPressOSD stars](https://img.shields.io/github/stars/lokeshgovindu/KeyPressOSD?style=flat-square&label=%E2%AD%90) | .NET 10 |
-| [**AltTabAlternative**](https://github.com/lokeshgovindu/AltTabAlternative) | Alternative Windows native task switcher | ![AltTabAlternative stars](https://img.shields.io/github/stars/lokeshgovindu/AltTabAlternative?style=flat-square&label=%E2%AD%90) | AutoHotkey |
-| [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ![DependencyGraph stars](https://img.shields.io/github/stars/lokeshgovindu/DependencyGraph?style=flat-square&label=%E2%AD%90) | C# |
-| [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ![GoToRecentFile stars](https://img.shields.io/github/stars/lokeshgovindu/GoToRecentFile?style=flat-square&label=%E2%AD%90) | C# |
+<!--
+Downloads count GitHub release assets only, via shields.io. PerchBar has no
+releases yet, and shields renders "no releases found" for such a repo, so that
+cell is a dash on purpose -- swap in the badge once PerchBar ships a release.
+Note the VS extensions are also distributed on the Marketplace, which these
+numbers do not include.
+-->
+| Project | Description | Stars | Downloads | Language |
+|---------|-------------|-------|-----------|----------|
+| [**AltTab**](https://github.com/lokeshgovindu/AltTab) | Alternative Windows task switcher (Alt+Tab) in C++ with Win32 | ![AltTab stars](https://img.shields.io/github/stars/lokeshgovindu/AltTab?style=flat-square&label=%E2%AD%90) | ![AltTab downloads](https://img.shields.io/github/downloads/lokeshgovindu/AltTab/total?style=flat-square&label=%E2%AC%87) | C++ |
+| [**PasteJump**](https://github.com/lokeshgovindu/PasteJump) | Keyboard-driven multiple-clipboard manager for Windows | ![PasteJump stars](https://img.shields.io/github/stars/lokeshgovindu/PasteJump?style=flat-square&label=%E2%AD%90) | ![PasteJump downloads](https://img.shields.io/github/downloads/lokeshgovindu/PasteJump/total?style=flat-square&label=%E2%AC%87) | .NET 10 |
+| [**PerchBar**](https://github.com/lokeshgovindu/PerchBar) | One taskbar button for a group of Windows apps, including the ones already running | ![PerchBar stars](https://img.shields.io/github/stars/lokeshgovindu/PerchBar?style=flat-square&label=%E2%AD%90) | — | C++20 |
+| [**KeyPressOSD**](https://github.com/lokeshgovindu/KeyPressOSD) | On-screen display for keys and mouse buttons, for screencasts and presentations | ![KeyPressOSD stars](https://img.shields.io/github/stars/lokeshgovindu/KeyPressOSD?style=flat-square&label=%E2%AD%90) | ![KeyPressOSD downloads](https://img.shields.io/github/downloads/lokeshgovindu/KeyPressOSD/total?style=flat-square&label=%E2%AC%87) | .NET 10 |
+| [**AltTabAlternative**](https://github.com/lokeshgovindu/AltTabAlternative) | Alternative Windows native task switcher | ![AltTabAlternative stars](https://img.shields.io/github/stars/lokeshgovindu/AltTabAlternative?style=flat-square&label=%E2%AD%90) | ![AltTabAlternative downloads](https://img.shields.io/github/downloads/lokeshgovindu/AltTabAlternative/total?style=flat-square&label=%E2%AC%87) | AutoHotkey |
+| [**DependencyGraph**](https://github.com/lokeshgovindu/DependencyGraph) | Dependency graph analyzer | ![DependencyGraph stars](https://img.shields.io/github/stars/lokeshgovindu/DependencyGraph?style=flat-square&label=%E2%AD%90) | ![DependencyGraph downloads](https://img.shields.io/github/downloads/lokeshgovindu/DependencyGraph/total?style=flat-square&label=%E2%AC%87) | C# |
+| [**GoToRecentFile**](https://github.com/lokeshgovindu/GoToRecentFile) | Go to recent file in Visual Studio IDE | ![GoToRecentFile stars](https://img.shields.io/github/stars/lokeshgovindu/GoToRecentFile?style=flat-square&label=%E2%AD%90) | ![GoToRecentFile downloads](https://img.shields.io/github/downloads/lokeshgovindu/GoToRecentFile/total?style=flat-square&label=%E2%AC%87) | C# |
 
 </div>
 
