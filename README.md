@@ -99,20 +99,20 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 27 August 2026
+From: 29 July 2026 - To: 28 August 2026
 
-Total Time: 220 hrs 11 mins
+Total Time: 224 hrs 38 mins
 
-Other                              84 hrs 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 %
-C++                                58 hrs 51 mins        ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
-Python                             42 hrs 26 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-C#                                 29 hrs 41 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Markdown                           26 hrs 57 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Text                               17 hrs 56 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-PowerShell                         15 hrs 14 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-HTML                               6 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-XAML                               5 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-XML                                2 hrs 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other                              89 hrs                ███████░░░░░░░░░░░░░░░░░░   28.38 %
+C++                                59 hrs 2 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+Python                             45 hrs 21 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+C#                                 30 hrs 50 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Markdown                           27 hrs 20 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Text                               17 hrs 49 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+PowerShell                         17 hrs 10 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+HTML                               5 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+XAML                               5 hrs 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+XML                                2 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
