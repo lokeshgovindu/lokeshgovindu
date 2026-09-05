@@ -99,19 +99,19 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2026 - To: 02 September 2026
+From: 04 August 2026 - To: 03 September 2026
 
-Total Time: 215 hrs 56 mins
+Total Time: 217 hrs 54 mins
 
-Other                              99 hrs 15 mins        ████████░░░░░░░░░░░░░░░░░   31.49 %
-Python                             52 hrs 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-C++                                43 hrs 17 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-C#                                 35 hrs 28 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Markdown                           26 hrs 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-PowerShell                         19 hrs 17 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Text                               17 hrs 20 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-XAML                               5 hrs 52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-XML                                2 hrs 50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other                              97 hrs 54 mins        ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+Python                             54 hrs 40 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+C++                                41 hrs                ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+C#                                 35 hrs 28 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Markdown                           27 hrs 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+PowerShell                         21 hrs 7 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Text                               17 hrs 5 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+XAML                               5 hrs 52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+XML                                2 hrs 33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 HTML                               1 hr 50 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
