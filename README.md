@@ -99,20 +99,20 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 05 September 2026
+From: 07 August 2026 - To: 06 September 2026
 
-Total Time: 216 hrs 10 mins
+Total Time: 215 hrs 42 mins
 
-Other                              91 hrs 25 mins        ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-Python                             56 hrs 42 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-C++                                38 hrs 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-C#                                 35 hrs 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Markdown                           26 hrs 52 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-PowerShell                         21 hrs 41 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Text                               17 hrs 1 min          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-XAML                               5 hrs 52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-XML                                2 hrs 33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-HTML                               1 hr 50 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Other                              86 hrs 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 %
+Python                             56 hrs 50 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+C++                                39 hrs 58 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+C#                                 33 hrs 43 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Markdown                           28 hrs 16 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+PowerShell                         22 hrs 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Text                               17 hrs 2 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+XAML                               5 hrs 32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+XML                                2 hrs 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+HTML                               1 hr 50 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
