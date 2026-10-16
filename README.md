@@ -99,20 +99,20 @@ swap the github-readme-stats.vercel.app host for your own.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2026 - To: 13 October 2026
+From: 14 September 2026 - To: 14 October 2026
 
-Total Time: 104 hrs 9 mins
+Total Time: 100 hrs 10 mins
 
-Other         128 hrs 41 mins       █████████████▓░░░░░░░░░░░   55.27 %
-Python        35 hrs                ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-C++           19 hrs 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-PowerShell    19 hrs 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Markdown      17 hrs 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Text          6 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-C#            2 hrs 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-XML           47 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-HTML          37 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-JavaScript    27 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other         127 hrs 52 mins       ██████████████░░░░░░░░░░░   56.07 %
+Python        35 hrs 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+C++           19 hrs 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Markdown      16 hrs 23 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+PowerShell    16 hrs 20 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Text          6 hrs 21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+C#            2 hrs 32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+XML           46 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+HTML          43 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Objective-C   26 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
